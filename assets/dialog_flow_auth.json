@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "healthmate-81e13",
+  "private_key_id": "4eb0b4ab8d66ec92bbf763ba3c649c6925100cc4",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQCeeTLP0+FpONGZ\nPSYQohBQMtqAQImrIGMkHuBFJWFTZzyqJRemG3zjBILPHZulH7ZH465DcL65S+UQ\nAge8PU31XTtF5tz41CHbQ0yQM31BsH06hU2oFsl12xNNlsjdfEhCaiMUoW4SlMue\nzzdwI3/VsdoBSHFfjsIXII1gbEPVAoP5qnp9mXtN42mMIC3c4v7KVLo+UH9iSAVz\n4l4NzpwLjVeWeA9s+NnaSPGZCsSPqaUEAzmJhLJcEEWZovc6f0NxQrMJX0oztnjD\nX0ktpiVrDG6ZDhuW6rJhKgEYktOdi5lXtnYq9m9+PFh2QBdTlgtbyqsnkqJX9yl1\nwkL17bbrAgMBAAECggEAG97o5tA2xpCtnCu69BXslI49C21OSQBrL0EW5FJMqaRw\ncOQRIq+W6T4z20UzyHipUD9kuIutn10Prh8NSTfm7A43jHWryz9TrQJLBtlnYBQw\nEgi7vaI0UDv1SyIHtZxUAQo1nT0+5Jmyrf13nItBwk2DL9KTzeCHlhWth5XC4EVI\nBshofSavk9H4Prgfv1h5xiCo1jYBOXdn3cBRmXy0TA0D24u80bThFP11mQCuiPsG\nqKC91j7FMAFjaBi0aogdgFp7zYqdeyS0Ku62C93NLbknPtp90h5pjq3XA8vydYzG\nj7FnoL8K98LhCL0rvXKIdcelbHwfifuD+EkASvweUQKBgQDVGtz5YWHYKl9ndb+q\nRvMXBLeDU1TOnYKrr4KAUWwsjqnZzKCvMyWyDcsWAA1HecvI1qmLGzn3dcxjNQHO\nQouGjWkHJUNUHkKvuyVWP8TzyjZr8j6XnKjGKASL0sKox5owA+YHlZ/YgL58WKKg\njwgSawD+jOH0b1mz7NiPYbbRhQKBgQC+XzcQx01X1VgeUvWgP8ycJ0l1fPoxVez9\nQZgS0trd0EhfyqZe/pLQ3oPAtmQRU6qbG4z6R89AXkdcvaW5WtJ3Lr60ST9MRDlM\nN2HcqUvqQPepAl5nZq9LklAyvNdE4LXASz3bUse8uv8QUbd784vXnh4MSOurmK1/\nC5+MqoyZrwKBgQCmtPEQlUG5nMwtX0ukpQQdia8VqOa7CzThodbxEsEQyjnNC+rX\no6dldqzcdQXuWDU209al35KlJx3QrfLPq/cCNzVmRZw5/cIlPr2ijxg/rnyMTWDx\nsbfF7CBCUYm+BwdzcFlOrZnyACUDmUL/X2TtI5APkZ5hXYpK2ok/AS3HEQKBgG7A\nV/nD6QQTUwt5Ofq7gx7JYFwglDGFirUfpwg0cS4gUSqha77SHbmz6jSAJ6FI6nUI\nRzEH+9O3xY53qmU2KEE8Cag7AL8u5aKoiZ9lQowKtco2XZOMUqkFevC5mgcxL6uq\nWlcxRpBOvbrRv4w1+QI8s8Bz399ZmH3T1kNwqRFzAoGBALQlQ5EKHbVLW8KaTtJF\nWiGmN6KFfj2zw/5vToYbH8hOeY12Z2BaUO4k1ABFFcbnbl0fYxaAa07VtkNHusyt\nUOUpArLBciZPMNHP2+UViJDZWLyi+XrFJP/F30VD5dkw9dVLSqAH5ncyOmkvGUXZ\nmsqVGT3XtCNU4l9dEpyWBHMt\n-----END PRIVATE KEY-----\n",
+  "client_email": "khush-688@healthmate-81e13.iam.gserviceaccount.com",
+  "client_id": "116514107600936330139",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/khush-688%40healthmate-81e13.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}

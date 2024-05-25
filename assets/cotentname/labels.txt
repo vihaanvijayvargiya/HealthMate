@@ -1,0 +1,4 @@
+0 Good-Mental-Heath
+1 Bad-Mental-Health
+2 Normal-Mental-Health
+3 Random
