@@ -140,7 +140,7 @@ class _HappinessJuiceScreenState extends State<HappinessJuiceScreen> {
       ),
       floatingActionButton: FloatingActionButton(onPressed: (){
 
-        Navigator.push(context, MaterialPageRoute(builder: (context)=>MyModelImage()));
+       // Navigator.push(context, MaterialPageRoute(builder: (context)=>MyModelImage()));
       },
         child: Icon(Icons.add_a_photo),
         backgroundColor: lightColor,
